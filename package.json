@@ -1,0 +1,31 @@
+{
+  "name": "invert-hash",
+  "version": "0.0.0",
+  "description": "Inverts an object hash",
+  "main": "invert.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/invert-hash.git"
+  },
+  "keywords": [
+    "invert",
+    "hash",
+    "object",
+    "dictionary",
+    "inverse"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "62d7020ba76f19cf70c0cc651e64ad2931c47366"
+}
